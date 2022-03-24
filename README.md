@@ -2,7 +2,7 @@
 
 My name is Davide Arcolini 🤓. 
 
-I am currently enrolled in the **CyberSecurity** track at **Politecnico di Torino**, Italy. \
+I am currently enrolled in the **CyberSecurity** master track at **Politecnico di Torino**, Italy. \
 Also, I am participating in the 2022 edition of **CyberChallenge.IT**. 
 
 On my profile you can find most of the courses I attended during my studies. The repositories for these courses are named `PoliTo_<course_tag>`.\
