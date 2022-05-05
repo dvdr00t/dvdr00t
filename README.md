@@ -13,8 +13,9 @@ Moreover, I am participating in the 2022 edition of **CyberChallenge.IT**, the i
   - `PoliTo_SDP` refers to the System and Device Programming course;
   - `PoliTo_CA` refers to the Computer Architectures course;
   - and so on.
+
   You can find what the tag refers to in the `README.txt` file of every directory. Take a look at that also to know in which year I attended that particular course.
 
-Moreover, there is a special folder, called `PNRGs`, which contains my essay (and code implementation) on Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems.
+Moreover, there is a special folder, called `PNRGs`, which contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. 
 
 Enjoy 🧙🏼‍♂️
