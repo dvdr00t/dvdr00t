@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-My name is Davide Arcolini 🤓. Happy to see you on my GitHub page! Hope you'll find here what you need or what you are looking for. Take a look around and *may the force be with you*.
+My name is Davide Arcolini 🤓. Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
 #### Who I am and what I am doing
-- Since I was a kid, I used to mess up computers because I had no idea of what I was doing. Today, nothing has changed. However, in 2021 I got a Bachelor's Degree in Computer Engineering from **Politecnico di Torino** in Italy.
+- Since I was a kid, I used to play with my dad's computer and mess things up because I had no idea of what I was doing. Today, I still don't have any clue of what I am doing. However, in 2021 I got a Bachelor's Degree in Computer Engineering from **Politecnico di Torino** in Italy, with a 101/110 graduation mark.
 
 - Now, I am enrolled in the Computer Engineering Master's Courses, majoring in **CyberSecurity**, still at **Politecnico di Torino**.\
 Moreover, I am participating in the 2022 edition of **CyberChallenge.IT**, the italian training program for ethical hackers! 🧑‍💻 Here, besides playing CTF, I am learning how to break stuff by understanding how things works, such as: cryptography, web appications, reverse engineering, etc...
