@@ -18,8 +18,8 @@ Moreover, I am participating in the 2022 edition of **CyberChallenge.IT**, the i
 
 - Moreover, there is a special folder, called `PNRGs`, which contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. 
 
-- Finally, there is the `CTFs Write-Up` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). All the *write-ups* are very well commented assuming the reader knows nothing about the topica (since, more or less, that was my case).
+- Finally, there is the `CTFs Write-Up` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). All the *write-ups* are very well commented assuming the reader knows nothing about the topics (since, more or less, that was my case).
 
-> As we are all learning (myself in the first place), feel free to suggest improvements of what you see!
+> **As we are all learning (myself in the first place), feel free to suggest improvements of what you see!**
 
 In the meanwhile, enjoy! 🧙🏼‍♂️
