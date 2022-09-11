@@ -3,7 +3,7 @@
 My name is Davide Arcolini 🤓. Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
 ## 🧑‍💻 About me
-In 2021 I got a Bachelor's Degree in Computer Engineering from **Politecnico di Torino** in Italy, with a 101/110 graduation mark. Now, I am enrolled in the Computer Engineering Master's Courses, majoring in **CyberSecurity**, still at **Politecnico di Torino**.\
+In 2021 I got a Bachelor's Degree in Computer Engineering from **Politecnico di Torino** in Italy, with a 101/110 graduation mark. Currently, I am enrolled in the M.Sc. in Computer Engineering  at **Politecnico di Torino**, major in **CyberSecurity**.\
 Moreover, I took part in the 2022 edition of **CyberChallenge.IT**, the italian training program for ethical hackers!
 
 ## 📚 About my GitHub Page
