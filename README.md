@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello world 🧙🏼‍♂️, I'm dvdr00t!</h1>
-<h4 align="center">I am a cybersecurity Student enrolled in the  Computer Engineering M.Sc. @ Politecnico di Torino, Italy. </h4>
+<h3 align="center">I am a cybersecurity Student enrolled in the  Computer Engineering M.Sc. @ Politecnico di Torino, Italy. </h3>
 </div>
 
 ![header](header.png)
