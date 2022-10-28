@@ -15,21 +15,15 @@ Moreover, I took part in the 2022 edition of **CyberChallenge.IT**, the italian 
 Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
 ## 📚 About my GitHub Page
-- On my profile you can find most of the courses I had attended during my studies. The repositories for these courses are named `PoliTo_<course_tag>`, such as: 
-  - `PoliTo_OS` refers to the Operating System course;
-  - `PoliTo_SDP` refers to the System and Device Programming course;
-  - `PoliTo_CA` refers to the Computer Architectures course;
-  - and so on.
+- On my profile you can find most of the solutions and reports of the courses I had attended during my studies. The repository for these courses is called `Polilabs`. Take a look at that if you are from Politecnico and you are looking for exercise solutions. 
 
-  You can find what the tag refers to in the `README.md` file of every repository. Take a look at that also to know in which year I attended that particular course.
+- You can also find the `CTFs` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). The original intention was to create a repository which contains write-ups in the form of small blog posts that covers more or less the whole topic of the challenge. However, this requires more time than expected, so feel free to help!
 
-- Moreover, there are two *special* folders: 
-  - `PNRGs` contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. 
-  - `OS161-SHELL` contains the *os161* kernel implementation (ASST0 to ASST3). 
+- Finally, there are two *special* folders: 
+  - `PNRGs` contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. It a super cool project I did at the end of the Bachelor's Degree, working on chaotic systems to generate pseudo random numbers. Check it out!
+  - `OS161-SHELL` contains the *os161* kernel implementation (ASST0 to ASST3).  
   
-- Finally, there is the `CTFs Write-Up` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). All the *write-ups* are very well commented assuming the reader knows nothing about the topics (since, more or less, that was my case).
-
-> **As we are all learning (myself in the first place), feel free to suggest improvements of what you see!**
+## 📊 Some stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideArcolini&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=DavideArcolini&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
