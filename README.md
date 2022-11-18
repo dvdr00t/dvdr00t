@@ -7,7 +7,7 @@
 
 
 ## 🧑‍💻 About me
-My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓. 
+Hi! My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓. 
 
 In 2021 I got a Bachelor's Degree in Computer Engineering from **Politecnico di Torino** in Italy, with a 101/110 graduation mark. Currently, I am enrolled in the M.Sc. in Computer Engineering  at **Politecnico di Torino**, major in **CyberSecurity**.\
 Moreover, I took part in the 2022 edition of **CyberChallenge.IT**, the italian training program for ethical hackers!
