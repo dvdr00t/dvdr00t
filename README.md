@@ -19,9 +19,10 @@ Happy to see you on my GitHub page! Hope you'll find here what you need and what
 
 - You can also find the `CTFs` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). The original intention was to create a repository which contains write-ups in the form of small blog posts that covers more or less the whole topic of the challenge. However, this requires more time than expected, so feel free to help!
 
-- Finally, there are two *special* folders: 
+- Finally, there are some *special* folders: 
   - `PNRGs` contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. It a super cool project I did at the end of the Bachelor's Degree, working on chaotic systems to generate pseudo random numbers. Check it out!
-  - `OS161-SHELL` contains the *os161* kernel implementation (ASST0 to ASST3).  
+  - `OS161-SHELL` contains the *os161* kernel implementation (ASST0 to ASST3) that allows the system to run concurrent multi-process in a shell environment. It has been developed in the **System and Device Programming** course, during my Master of Science.
+  - `WebAppI-StudyPlanExam` contains a `Node.js` web application developed in the `Web Application I` course, during my Master of Science. The front-end of the application exploits the **React library** to build a single page application that connects to the back-end **Express framework** which provides services and data to the users.
   
 ## 📊 Some stats
 
