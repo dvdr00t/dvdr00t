@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello world 🧙🏼‍♂️, I'm dvdr00t!</h1>
-<h3 align="center">I am a cybersecurity Student enrolled in the  Computer Engineering M.Sc. @ Politecnico di Torino, Italy. </h3>
+<h3 align="center">I am a cybersecurity student enrolled in the Computer Engineering M.Sc. @ Politecnico di Torino, Italy. <br> Tutor @ IEEE-HKN Mu Nu Chapter (Turin, Italy). </h3>
 </div>
 
 ![header](header.png)
@@ -9,8 +9,10 @@
 ## 🧑‍💻 About me
 Hi! My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓. 
 
-In 2021 I got a Bachelor's Degree in Computer Engineering from **Politecnico di Torino** in Italy, with a 101/110 graduation mark. Currently, I am enrolled in the M.Sc. in Computer Engineering  at **Politecnico di Torino**, major in **CyberSecurity**.\
-Moreover, I took part in the 2022 edition of **CyberChallenge.IT**, the italian training program for ethical hackers!
+In 2021 I got a Bachelor of Science degree in Computer Engineering from **Politecnico di Torino** (Turin, Italy) with a 101/110 final graduation mark. Currently, I am enrolled in the Master of Science program in Computer Engineering  at **Politecnico di Torino**, major in **cybersecurity**.
+My journey as an ethical hacker started during my first year in the M.Sc., when I took part in the 2022 edition of **CyberChallenge.IT**, the Italian training program for ethical hackers supported and organized by the [**Cybersecurity National Lab**](https://cybersecnatlab.it/) (**CNL**). \
+This semester, I am involved in the **Challenge@PoliTo** program in collaboration with [**Aruba Academy**](https://www.aruba.it/academy.aspx), following the development of FIDO Authentication mechanisms for Web Applications. \
+Finally, I am a Teaching Tutor for the **IEEE-HKN Mu Nu Chapter** Honor Society.
 
 Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
