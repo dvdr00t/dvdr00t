@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello world 🧙🏼‍♂️, I'm dvdr00t!</h1>
-<h3 align="center">I am a cybersecurity student enrolled in the Computer Engineering M.Sc. @ Politecnico di Torino, Italy. <br> Tutor @ IEEE-HKN Mu Nu Chapter (Turin, Italy). </h3>
+<h3 align="center">I am a cybersecurity student enrolled in the Computer Engineering M.Sc. course @ Politecnico di Torino, Italy. <br> Currently,  I am the Head of Logistics and Fundraising @ IEEE-HKN Mu Nu Chapter (Turin, Italy). </h3>
 </div>
 
 ![header](header.png)
@@ -11,19 +11,19 @@ Hi! My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓.
 
 In 2021 I got a Bachelor of Science degree in Computer Engineering from **Politecnico di Torino** (Turin, Italy) with a 101/110 final graduation mark. Currently, I am enrolled in the Master of Science program in Computer Engineering  at **Politecnico di Torino**, major in **cybersecurity**.
 My journey as an ethical hacker started during my first year in the M.Sc., when I took part in the 2022 edition of **CyberChallenge.IT**, the Italian training program for ethical hackers supported and organized by the [**Cybersecurity National Lab**](https://cybersecnatlab.it/) (**CNL**). \
-This semester, I am involved in the **Challenge@PoliTo** program in collaboration with [**Aruba Academy**](https://www.aruba.it/academy.aspx), following the development of FIDO Authentication mechanisms for Web Applications. \
-Finally, I am a Teaching Tutor for the [**IEEE-HKN Mu Nu Chapter**](https://hknpolito.org/), honor society of IEEE, a rank organization that recognises excellence among peers, encourages individual eminence in education and meritorious work in professional practice.
+This semester, I am involved in the **Challenge@PoliTo** program in collaboration with [**Aruba Academy**](https://www.aruba.it/academy.aspx), following the innovative development of FIDO Authentication mechanisms. \
+Finally, I am the Head of Logistics and Fundraising for the [**IEEE-HKN Mu Nu Chapter**](https://hknpolito.org/), honor society of IEEE, a rank organization that recognises excellence among peers, encourages individual eminence in education and meritorious work in professional practice.
 
 Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
 ## 📚 About my GitHub Page
-- On my profile you can find most of the solutions and reports of the courses I had attended during my studies. The repository for these courses is called `Polilabs`. Take a look at that if you are from Politecnico and you are looking for exercise solutions. 
+- On my profile you can find most of the solutions and reports of the courses I had attended during my studies. The repository for these courses is called `Polilabs`. Take a look at that if you came here from Politecnico and you are looking for exercise solutions. 
 
 - You can also find the `CTFs` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). The original intention was to create a repository which contains write-ups in the form of small blog posts that covers more or less the whole topic of the challenge. However, this requires more time than expected, so feel free to help!
 
 - Finally, there are some *special* folders: 
-  - `PNRGs` contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. It a super cool project I did at the end of the Bachelor's Degree, working on chaotic systems to generate pseudo random numbers. Check it out!
-  - `OS161-SHELL` contains the *os161* kernel implementation (ASST0 to ASST3) that allows the system to run concurrent multi-process in a shell environment. It has been developed in the **System and Device Programming** course, during my Master of Science.
+  - `PNRGs` contains my essay (and code implementation) on **Pseudo-Random Number Generator based on Logistic Chaotic Map and Generalized Lorenz Systems**. It a super cool project I did at the end of the Bachelor of Science program, working on chaotic systems to generate pseudo random numbers. Check it out!
+  - `OS161-SHELL` contains the *os161* kernel implementation (ASST0 to ASST3) that allows the system to run concurrent multi-process in a shell environment. It has been developed in the **System and Device Programming** course, during my Master of Science program.
   - `WebAppI-StudyPlan` contains a `Node.js` web application developed in the **Web Application I** course, during my Master of Science. The front-end of the application exploits the **React library** to build a single page application that connects to the back-end **Express framework** which provides services and data to the users.
   
 ## 📊 Some stats
