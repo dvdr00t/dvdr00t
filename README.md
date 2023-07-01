@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello world 🧙🏼‍♂️, I'm dvdr00t!</h1>
+<h1 align="center">Hello world 🧙, I'm dvdr00t!</h1>
 <h3 align="center">I am a cybersecurity student enrolled in the Computer Engineering M.Sc. course @ Politecnico di Torino, Italy. <br> Currently,  I am the Head of Logistics and Fundraising @ IEEE-HKN Mu Nu Chapter (Turin, Italy). </h3>
 </div>
 
