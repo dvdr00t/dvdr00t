@@ -12,7 +12,7 @@ Hi! My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓!
 In 2021 I got a Bachelor of Science degree in Computer Engineering from **Politecnico di Torino** (Turin, Italy) with a 101/110 final graduation mark. Currently, I am enrolled in the Master of Science program in Computer Engineering  at **Politecnico di Torino**, major in **cybersecurity**.
 My journey as an ethical hacker started during my first year in the M.Sc., when I took part in the 2022 edition of **CyberChallenge.IT**, the Italian training program for ethical hackers supported and organized by the [**Cybersecurity National Lab**](https://cybersecnatlab.it/) (**CNL**). \
 This semester, I am involved in the **Challenge@PoliTo** program in collaboration with [**Aruba Academy**](https://www.aruba.it/academy.aspx), following the innovative development of FIDO Authentication mechanisms. \
-Finally, I am the Head of Logistics and Fundraising for the [**IEEE-HKN Mu Nu Chapter**](https://hknpolito.org/), honor society of IEEE, a rank organization that recognises excellence among peers, encourages individual eminence in education and meritorious work in professional practice.
+Finally, I have been the Head of Logistics and Fundraising for the [**IEEE-HKN Mu Nu Chapter**](https://hknpolito.org/), honor society of IEEE, a rank organization that recognises excellence among peers, encourages individual eminence in education and meritorious work in professional practice.
 
 Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
