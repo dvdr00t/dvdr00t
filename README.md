@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hello world 🧙, I'm dvdr00t!</h1>
-<h3 align="center">I am a Master of Science cybersecurity student enrolled in the Computer Engineering program @ Politecnico di Torino, Italy. <br> Inducted member @ IEEE-HKN Mu Nu Chapter (Turin, Italy). </h3>
+<h1 align="center">Hello, World! 🧙 I'm dvdr00t!</h1>
+<h3 align="center">I am a M.Sc. student in Computer Engineering, enrolled in the cybersecurity track @ Politecnico di Torino (Italy) and an inducted member @ IEEE-HKN Mu Nu Chapter. </h3>
 </div>
 
 ![header](header.png)
@@ -9,15 +9,18 @@
 ## 🧑‍💻 About me
 Hi! My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓!
 
-In 2021 I got a Bachelor of Science degree in Computer Engineering from **Politecnico di Torino** (Turin, Italy) with a 101/110 final graduation mark. Currently, I am enrolled in the Master of Science program in Computer Engineering  at **Politecnico di Torino**, major in **cybersecurity**.
-My journey as an ethical hacker started during my first year in the M.Sc., when I took part in the 2022 edition of **CyberChallenge.IT**, the Italian training program for ethical hackers supported and organized by the [**Cybersecurity National Lab**](https://cybersecnatlab.it/) (**CNL**). \
-This semester, I am involved in the **Challenge@PoliTo** program in collaboration with [**Aruba Academy**](https://www.aruba.it/academy.aspx), following the innovative development of FIDO Authentication mechanisms. \
-Finally, I have been the Head of Logistics and Fundraising for the [**IEEE-HKN Mu Nu Chapter**](https://hknpolito.org/), honor society of IEEE, a rank organization that recognises excellence among peers, encourages individual eminence in education and meritorious work in professional practice.
+I am a Master of Science student in **Computer Engineering**, enrolled in the cybersecurity track at [**Politecnico di Torino**](https://www.polito.it/) (TO), Italy. As an [**IEEE-HKN Mu Nu Chapter**](https://www.hknpolito.org/) inducted member and IEEE Young Professional, I am committed to embody the principles of the Eta Kappa Nu Honor Society: leadership, character, and attitude.
+
+In 2021, I got a Bachelor’s degree at Politecnico di Torino, where I wrote a short thesis titled: “PRNG based on Logistic Chaotic Maps and Generalised Lorentz Systems”. I passioned about cybersecurity back in high school, working with an original Enigma Machine from 1943 and I then applied to the cybersecurity track at Politecnico di Torino. Here, I have actively engaged in various technical challenges. I ranked among the top 20 students from Politecnico di Torino in joining the [**CyberChallenge.IT program**](https://bestr.it/award/show/rLlb917mQk-v6w0rGCpO8Q), the Italian training program for ethical hackers organized by the [**Cybersecurity National Lab**]((https://cybersecnatlab.it/)). I've also attended cyber-related conferences like NoHat, m0lecon, and RomHack while managing my studies. As a team leader during the [**Challenge@PoliTo**](https://bestr.it/award/show/8MiJNQU_R9uGIwqmioc4Uw) with [**Aruba S.p.A**]((https://www.aruba.it/academy.aspx)), I helped develop password-less access methodologies for mobile and web applications. I've also taken part in the [**BIP CyberSec Talent Week**](https://www.vgen.it/it/bip-cybersec-talent-week/) and the [**IEEE Eurocon 2023 B.Sc. and M.Sc. Student Competition**](https://2023.ieee-eurocon.org/).
+
+Today, I have completed my internship with [**Liquid Reply**](https://www.reply.com/liquid-reply/en/), where I am concurrently crafting my master’s thesis. During my time there, I focused on Identity and Access Management (IAM) solutions, studying the integration within Kong Gateway, Keycloak and OPA for hybrid and multi-cloud setups. I also automated API development on Kubernetes with CI/CD tools like Jenkins and GitHub Actions.
+
+In 2022, I joined the Mu Nu Chapter at Politecnico di Torino, the [**Honor Society of the IEEE-HKN**](https://hkn.ieee.org/), where I started as a Tutor, organizing lectures on data structure courses. Later, I took on the role of Head of Logistics and Fundraising, which sharpened my organizational skills, as me and my colleagues arranged three events for the Politecnico community: a [**LaTeX Masterclass**](https://youtu.be/oAMvHd8ZcBs?si=Ox9W8C6umhFrdde9) (in which I also presented), a [**conference on quantum computing**](https://youtu.be/US-0U6EHW6o?si=YhDx50Y-LBSTngoU), and a series of talks on mental wellness and digital well-being. Over the last two years, I've spent more than 230 hours as a teaching assistant at Politecnico, helping fellow students with computer science and algorithmic courses. I find great satisfaction in simplifying complex ideas and aiding others in grasping them.
 
 Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
 
 ## 📚 About my GitHub Page
-- On my profile you can find most of the solutions and reports of the courses I had attended during my studies. The repository for these courses is called `Polilabs`. Take a look at that if you came here from Politecnico and you are looking for exercise solutions. 
+- You can discover the majority of the solutions and reports from the courses I participated in during my academic journey on my profile. The collection of materials for these courses is referred to as `Polilabs`. If you're a Politecnico student seeking exercise solutions, feel free to explore the repository.
 
 - You can also find the `CTFs` folder, which contains a series of *write-ups* for some of the CTFs I attended (still working on it, my journey has just begun 😄). The original intention was to create a repository which contains write-ups in the form of small blog posts that covers more or less the whole topic of the challenge. However, this requires more time than expected, so feel free to help!
 
