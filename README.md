@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello, World! 🧙 I'm dvdr00t!</h1>
-<h3 align="center">I am a M.Sc. student in Computer Engineering, enrolled in the cybersecurity track @ Politecnico di Torino (Italy) and an inducted member @ IEEE-HKN Mu Nu Chapter. </h3>
+<h3 align="center">I am a Consultant at Liquid Reply (IT) focused on the integration of LLMs within the application modernization process. I have a M.Sc. Degree in Computer Science @ Politecnico di Torino, Italy, and I am an inducted member @ IEEE-HKN Mu Nu Chapter. </h3>
 </div>
 
 ![header](header.png)
@@ -9,15 +9,7 @@
 ## 🧑‍💻 About me
 Hi! My name is **Davide Arcolini**, but you can call me `dvdr00t` 🤓!
 
-I am a Master of Science student in **Computer Engineering**, enrolled in the cybersecurity track at [**Politecnico di Torino**](https://www.polito.it/) (TO), Italy. As an [**IEEE-HKN Mu Nu Chapter**](https://www.hknpolito.org/) inducted member and IEEE Young Professional, I am committed to embody the principles of the Eta Kappa Nu Honor Society: leadership, character, and attitude.
-
-In 2021, I got a Bachelor’s degree at Politecnico di Torino, where I wrote a short thesis titled: “PRNG based on Logistic Chaotic Maps and Generalised Lorentz Systems”. I passioned about cybersecurity back in high school, working with an original Enigma Machine from 1943 and I then applied to the cybersecurity track at Politecnico di Torino. Here, I have actively engaged in various technical challenges. I ranked among the top 20 students from Politecnico di Torino in joining the [**CyberChallenge.IT program**](https://bestr.it/award/show/rLlb917mQk-v6w0rGCpO8Q), the Italian training program for ethical hackers organized by the [**Cybersecurity National Lab**]((https://cybersecnatlab.it/)). I've also attended cyber-related conferences like NoHat, m0lecon, and RomHack while managing my studies. As a team leader during the [**Challenge@PoliTo**](https://bestr.it/award/show/8MiJNQU_R9uGIwqmioc4Uw) with [**Aruba S.p.A**]((https://www.aruba.it/academy.aspx)), I helped develop password-less access methodologies for mobile and web applications. I've also taken part in the [**BIP CyberSec Talent Week**](https://www.vgen.it/it/bip-cybersec-talent-week/) and the [**IEEE Eurocon 2023 B.Sc. and M.Sc. Student Competition**](https://2023.ieee-eurocon.org/).
-
-Today, I have completed my internship with [**Liquid Reply**](https://www.reply.com/liquid-reply/en/), where I am concurrently crafting my master’s thesis. During my time there, I focused on Identity and Access Management (IAM) solutions, studying the integration within Kong Gateway, Keycloak and OPA for hybrid and multi-cloud setups. I also automated API development on Kubernetes with CI/CD tools like Jenkins and GitHub Actions.
-
-In 2022, I joined the Mu Nu Chapter at Politecnico di Torino, the [**Honor Society of the IEEE-HKN**](https://hkn.ieee.org/), where I started as a Tutor, organizing lectures on data structure courses. Later, I took on the role of Head of Logistics and Fundraising, which sharpened my organizational skills, as me and my colleagues arranged three events for the Politecnico community: a [**LaTeX Masterclass**](https://youtu.be/oAMvHd8ZcBs?si=Ox9W8C6umhFrdde9) (in which I also presented), a [**conference on quantum computing**](https://youtu.be/US-0U6EHW6o?si=YhDx50Y-LBSTngoU), and a series of talks on mental wellness and digital well-being. Over the last two years, I've spent more than 230 hours as a teaching assistant at Politecnico, helping fellow students with computer science and algorithmic courses. I find great satisfaction in simplifying complex ideas and aiding others in grasping them.
-
-Happy to see you on my GitHub page! Hope you'll find here what you need and what you are looking for. Take a look around and *may the force be with you*.
+As a Consultant at [**Liquid Reply**](https://www.reply.com/liquid-reply/en/) specializing in **LLM integration for application modernization**, I hold a Master of Science in **Computer Engineering** with a focus on cybersecurity from [**Politecnico di Torino**](https://www.polito.it/), Italy, earned in 2023, and a Bachelor's degree from the same institution obtained in 2021. During my academic journey, I delved into cybersecurity, engaging in projects such as developing a PRNG based on chaotic maps and participating in [**CyberChallenge.IT program**](https://bestr.it/award/show/rLlb917mQk-v6w0rGCpO8Q), ranking among the top 20 students. Additionally, I led teams in projects like [**Challenge@PoliTo**](https://bestr.it/award/show/8MiJNQU_R9uGIwqmioc4Uw) with [**Aruba S.p.A**](https://www.aruba.it/academy.aspx) and participated in various cyber-related conferences and competitions, including [**BIP CyberSec Talent Week**](https://www.vgen.it/it/bip-cybersec-talent-week/) and [**IEEE Eurocon 2023 B.Sc. and M.Sc. Student Competition**](https://2023.ieee-eurocon.org/). My master's thesis, "Full-Lifecycle API Management: Microgateway Infrastructural Pattern adopting Kong Gateway," was completed during my internship at Liquid Reply, where I focused on IAM solutions and automated API development on Kubernetes. I've also been active in [**IEEE-HKN's Mu Nu Chapter**](https://hknpolito.org/), serving as a Tutor and later as Head of Logistics and Fundraising, organizing events and dedicating over 230 hours as a teaching assistant at Politecnico, where I found fulfillment in simplifying complex concepts for others.
 
 ## 📚 About my GitHub Page
 - You can discover the majority of the solutions and reports from the courses I participated in during my academic journey on my profile. The collection of materials for these courses is referred to as `Polilabs`. If you're a Politecnico student seeking exercise solutions, feel free to explore the repository.
@@ -36,26 +28,17 @@ Happy to see you on my GitHub page! Hope you'll find here what you need and what
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=linux)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+
+![Kong](https://img.shields.io/badge/-Kong%20Gateway-05122A?style=flat&logo=kong)&nbsp;
 
 ### :link: &nbsp;Connect with me
 
