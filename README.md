@@ -23,8 +23,8 @@ As a Consultant at [**Liquid Reply**](https://www.reply.com/liquid-reply/en/) sp
   
 ## 📊 Some stats
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavideArcolini&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=DavideArcolini&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdr00t&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=dvdr00t&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
